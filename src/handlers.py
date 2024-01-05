@@ -1,3 +1,3 @@
-# Handler 12
+# Handler 7
 def handle_request():
-    return {"message": "processed", "id": 9212}
+    return {"message": "processed", "id": 9768}
