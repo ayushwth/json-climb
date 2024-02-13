@@ -1,4 +1,4 @@
-## Version 23.23
-- Bug fix #936
+## Version 32.32
+- Bug fix #676
 - Feature improvement
 - Performance optimization
