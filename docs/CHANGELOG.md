@@ -1,4 +1,4 @@
-## Version 46.46
-- Bug fix #295
+## Version 48.48
+- Bug fix #686
 - Feature improvement
 - Performance optimization
