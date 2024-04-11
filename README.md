@@ -1,27 +1,27 @@
-# json-climb 🌲
+# json-climb
 
 ## What is this?
 
-A **GitHub contribution graph generator** that creates realistic backdated commits with interactive date ranges and actual file modifications. Perfect for quickly populating your GitHub contribution calendar with a history of work.
+A GitHub contribution graph generator that creates realistic backdated commits with interactive date ranges and actual file modifications. Perfect for quickly populating your GitHub contribution calendar with a history of work.
 
 ## Features
 
-✨ **Interactive Date Selection**
+**Interactive Date Selection**
 - Choose custom start and end dates
 - Specify how many days should have commits
 - Real-time preview of contribution intensity (light → dark green squares)
 
-🎯 **Realistic Commits**
+**Realistic Commits**
 - Actual file creation and modification in `/changes`, `/config`, `/src`, `/docs`, `/tests`, `/data`
 - Realistic commit messages: "fix: bug in API handling", "feat: add validation logic", etc.
 - Random content: JSON configs, Python handlers, JavaScript tests, documentation
 
-📊 **Smart Distribution**
+**Smart Distribution**
 - Random 1-6 commits per active day
 - Realistic time variations (8 AM - 6 PM)
 - Commits randomly distributed across selected date range
 
-🚀 **Easy to Use**
+**Easy to Use**
 ```bash
 python git.py
 ```
@@ -38,31 +38,31 @@ Then:
 ## Example
 
 ```
-📅 Enter start date (YYYY-MM-DD): 2025-08-01
-📅 Enter end date (YYYY-MM-DD): 2026-05-25
-🎯 How many days should have commits? (1-298, recommended 80-150): 120
+Enter start date (YYYY-MM-DD): 2025-08-01
+Enter end date (YYYY-MM-DD): 2026-05-25
+How many days should have commits? (1-298, recommended 80-150): 120
 ```
 
-Creates ~400-500 commits across 120 randomly selected days, with varying commit intensities creating a realistic GitHub contribution graph.
+Creates approximately 400-500 commits across 120 randomly selected days, with varying commit intensities creating a realistic GitHub contribution graph.
 
 ## Output Structure
 
-- **changes/** - Logs and history of changes
-- **config/** - Configuration files (JSON)
-- **src/** - Source code (JavaScript, Python, JSON)
-- **docs/** - Documentation (Markdown)
-- **tests/** - Test files (JavaScript)
-- **data/** - Data files (JSON, metrics)
+- `changes/` - Logs and history of changes
+- `config/` - Configuration files (JSON)
+- `src/` - Source code (JavaScript, Python, JSON)
+- `docs/` - Documentation (Markdown)
+- `tests/` - Test files (JavaScript)
+- `data/` - Data files (JSON, metrics)
 
-## Important
+## Important Notes
 
-⚠️ All commits are created **locally only**. You must manually push to GitHub:
+All commits are created locally only. You must manually push to GitHub:
 
 ```bash
 git push origin main
 ```
 
-After pushing, your contribution graph updates in **5-10 minutes**.
+After pushing, your contribution graph updates in approximately 5-10 minutes.
 
 ## How It Works
 
@@ -70,7 +70,7 @@ After pushing, your contribution graph updates in **5-10 minutes**.
 2. Generates 1-6 commits per selected day at random times
 3. Creates/modifies files in project directories
 4. Commits with backdated timestamps using `git commit --date`
-5. Stages and commits using Python's `subprocess` module (reliable execution)
+5. Stages and commits using Python's subprocess module (reliable execution)
 
 ## Files & Folders
 
@@ -80,4 +80,4 @@ After pushing, your contribution graph updates in **5-10 minutes**.
 
 ---
 
-**Use responsibly!** This is meant for personal projects or learning, not for misrepresenting work history on professional profiles.
+Use responsibly. This is meant for personal projects or learning, not for misrepresenting work history on professional profiles.
