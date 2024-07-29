@@ -1,4 +1,4 @@
-## Version 35.35
-- Bug fix #185
+## Version 45.45
+- Bug fix #318
 - Feature improvement
 - Performance optimization
