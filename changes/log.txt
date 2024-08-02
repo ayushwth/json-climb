@@ -15,3 +15,4 @@
 [2026-05-25T15:39:44.915994] Processing batch 42: 6816 records
 [2026-05-25T15:39:45.007737] Processing batch 43: 5739 records
 [2026-05-25T15:39:45.096970] Processing batch 44: 2998 records
+[2026-05-25T15:39:45.364218] Processing batch 47: 1256 records
