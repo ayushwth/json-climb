@@ -21,3 +21,4 @@
 [2026-05-25T15:39:47.136831] Processing batch 65: 9131 records
 [2026-05-25T15:39:47.844417] Processing batch 72: 1981 records
 [2026-05-25T15:39:48.048089] Processing batch 74: 1971 records
+[2026-05-25T15:39:48.148688] Processing batch 75: 5558 records
