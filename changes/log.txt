@@ -29,3 +29,4 @@
 [2026-05-25T15:39:50.303051] Processing batch 97: 9610 records
 [2026-05-25T15:39:51.843910] Processing batch 14: 2322 records
 [2026-05-25T15:39:52.556545] Processing batch 22: 3840 records
+[2026-05-25T15:39:52.647942] Processing batch 23: 7271 records
