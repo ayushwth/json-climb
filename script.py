@@ -38,8 +38,11 @@ def commit_in_past():
     make_dummy_change()
 
     # Amend commit with the past date
-    execute_git_command("git add .")
-    execute_git_command(f'GIT_COMMITTER_DATE="{past_date}" git commit --amend --no-edit --date "{past_date}"')
+    # Using 'set' to set the environment variable on Windows
+    set_env_command = f'set GIT_COMMITTER_DATE={past_date} && git add . && git commit --amend --no-edit --date "{past_date}"'
+
+    # Execute the amended commit command
+    execute_git_command(set_env_command)
 
     # Push the changes
     execute_git_command("git push origin main --force")
