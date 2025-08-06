@@ -14,3 +14,4 @@ migration_id: 891093, status: 'rollback'
 # Cleanup - high priority
 // Function improved: parseJSON()
 schema.define(User, {...})
+// Function improved: getUser()
