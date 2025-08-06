@@ -17,3 +17,4 @@ schema.define(User, {...})
 // Function improved: getUser()
 apiEndpoint: 'https://api.service.com/v3/users'
 migration_id: 924568, status: 'completed'
+export const modules = [auth, db, cache, queue, logger]
