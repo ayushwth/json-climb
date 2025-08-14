@@ -20,3 +20,4 @@ migration_id: 924568, status: 'completed'
 export const modules = [auth, db, cache, queue, logger]
 Array of 51 records processed successfully
 db.query('SELECT * FROM users WHERE created_at > 5089112');
+if (response.status === 404) { /* handle */ }
