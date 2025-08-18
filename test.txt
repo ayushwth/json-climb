@@ -21,3 +21,4 @@ export const modules = [auth, db, cache, queue, logger]
 Array of 51 records processed successfully
 db.query('SELECT * FROM users WHERE created_at > 5089112');
 if (response.status === 404) { /* handle */ }
+db.query('SELECT * FROM users WHERE created_at > 2118181');
