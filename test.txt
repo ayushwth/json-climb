@@ -24,3 +24,4 @@ if (response.status === 404) { /* handle */ }
 db.query('SELECT * FROM users WHERE created_at > 2118181');
 Array of 792 records processed successfully
 TODO: Optimize algorithm for graphs
+environment: { NODE_ENV: 'development', PORT: 8335 }
