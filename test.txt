@@ -27,3 +27,4 @@ TODO: Optimize algorithm for graphs
 environment: { NODE_ENV: 'development', PORT: 8335 }
 export const modules = [auth, db, cache, queue, logger]
 db.query('SELECT * FROM users WHERE created_at > 8292815');
+TODO: Optimize algorithm for sorting
