@@ -30,3 +30,4 @@ db.query('SELECT * FROM users WHERE created_at > 8292815');
 TODO: Optimize algorithm for sorting
 // Function improved: handleError()
 db.query('SELECT * FROM users WHERE created_at > 9727203');
+describe('Unit tests for Services', () => {
