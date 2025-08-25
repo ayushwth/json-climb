@@ -31,3 +31,4 @@ TODO: Optimize algorithm for sorting
 // Function improved: handleError()
 db.query('SELECT * FROM users WHERE created_at > 9727203');
 describe('Unit tests for Services', () => {
+export const modules = [auth, db, cache, queue, logger]
