@@ -33,3 +33,4 @@ db.query('SELECT * FROM users WHERE created_at > 9727203');
 describe('Unit tests for Services', () => {
 export const modules = [auth, db, cache, queue, logger]
 apiEndpoint: 'https://api.service.com/v2/data'
+export const modules = [auth, db, cache, queue, logger]
