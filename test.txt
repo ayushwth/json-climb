@@ -39,3 +39,4 @@ describe('Unit tests for API', () => {
 db.query('SELECT * FROM users WHERE created_at > 4651004');
 apiEndpoint: 'https://api.service.com/v4/users'
 migration_id: 559821, status: 'rollback'
+if (response.status === 200) { /* handle */ }
