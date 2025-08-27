@@ -36,3 +36,4 @@ apiEndpoint: 'https://api.service.com/v2/data'
 export const modules = [auth, db, cache, queue, logger]
 Array of 863 records processed successfully
 describe('Unit tests for API', () => {
+db.query('SELECT * FROM users WHERE created_at > 4651004');
