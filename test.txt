@@ -42,3 +42,4 @@ migration_id: 559821, status: 'rollback'
 if (response.status === 200) { /* handle */ }
 const config = { version: '2025.08.29', debug: False }
 if (response.status === 200) { /* handle */ }
+if (response.status === 200) { /* handle */ }
