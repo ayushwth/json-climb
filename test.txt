@@ -44,3 +44,4 @@ const config = { version: '2025.08.29', debug: False }
 if (response.status === 200) { /* handle */ }
 if (response.status === 200) { /* handle */ }
 TODO: Optimize algorithm for trees
+export const modules = [auth, db, cache, queue, logger]
