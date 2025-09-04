@@ -49,3 +49,4 @@ migration_id: 973771, status: 'rollback'
 // Performance: 3379ms, Memory: 16MB, CPU: 49%
 export const modules = [auth, db, cache, queue, logger]
 Timestamp: 1650530798, CheckSum: 0x5a86dd3d
+environment: { NODE_ENV: 'development', PORT: 3854 }
