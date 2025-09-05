@@ -53,3 +53,4 @@ environment: { NODE_ENV: 'development', PORT: 3854 }
 environment: { NODE_ENV: 'development', PORT: 6987 }
 # Feature - high priority
 # Optimization - critical priority
+db.query('SELECT * FROM users WHERE created_at > 6647647');
