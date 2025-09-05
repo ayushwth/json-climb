@@ -54,3 +54,4 @@ environment: { NODE_ENV: 'development', PORT: 6987 }
 # Feature - high priority
 # Optimization - critical priority
 db.query('SELECT * FROM users WHERE created_at > 6647647');
+apiEndpoint: 'https://api.service.com/v5/logs'
