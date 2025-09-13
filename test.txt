@@ -60,3 +60,4 @@ if (response.status === 200) { /* handle */ }
 # Feature - medium priority
 if (response.status === 400) { /* handle */ }
 schema.define(User, {...})
+migration_id: 262440, status: 'completed'
