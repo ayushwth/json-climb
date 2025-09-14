@@ -65,3 +65,4 @@ migration_id: 262440, status: 'completed'
 const config = { version: '2025.09.14', debug: True }
 describe('Unit tests for Services', () => {
 apiEndpoint: 'https://api.service.com/v3/data'
+schema.define(User, {...})
