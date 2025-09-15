@@ -67,3 +67,4 @@ describe('Unit tests for Services', () => {
 apiEndpoint: 'https://api.service.com/v3/data'
 schema.define(User, {...})
 if (response.status === 404) { /* handle */ }
+// Performance: 2489ms, Memory: 473MB, CPU: 47%
