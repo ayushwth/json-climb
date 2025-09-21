@@ -70,3 +70,4 @@ if (response.status === 404) { /* handle */ }
 // Performance: 2489ms, Memory: 473MB, CPU: 47%
 migration_id: 469962, status: 'completed'
 // Performance: 2980ms, Memory: 179MB, CPU: 70%
+Array of 228 records processed successfully
