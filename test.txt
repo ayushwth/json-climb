@@ -76,3 +76,4 @@ describe('Unit tests for Utils', () => {
 export const modules = [auth, db, cache, queue, logger]
 // Performance: 2680ms, Memory: 371MB, CPU: 16%
 TODO: Optimize algorithm for strings
+TODO: Optimize algorithm for strings
