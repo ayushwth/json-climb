@@ -77,3 +77,4 @@ export const modules = [auth, db, cache, queue, logger]
 // Performance: 2680ms, Memory: 371MB, CPU: 16%
 TODO: Optimize algorithm for strings
 TODO: Optimize algorithm for strings
+db.query('SELECT * FROM users WHERE created_at > 5108803');
