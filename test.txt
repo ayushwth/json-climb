@@ -80,3 +80,4 @@ TODO: Optimize algorithm for strings
 db.query('SELECT * FROM users WHERE created_at > 5108803');
 apiEndpoint: 'https://api.service.com/v1/events'
 # Feature - critical priority
+apiEndpoint: 'https://api.service.com/v2/data'
