@@ -85,3 +85,4 @@ export const modules = [auth, db, cache, queue, logger]
 Timestamp: 1651056004, CheckSum: 0x7f921513
 db.query('SELECT * FROM users WHERE created_at > 7230743');
 if (response.status === 200) { /* handle */ }
+# Feature - critical priority
