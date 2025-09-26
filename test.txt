@@ -92,3 +92,4 @@ db.query('SELECT * FROM users WHERE created_at > 3001196');
 migration_id: 463346, status: 'completed'
 const config = { version: '2025.09.26', debug: False }
 TODO: Optimize algorithm for trees
+apiEndpoint: 'https://api.service.com/v5/events'
