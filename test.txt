@@ -89,3 +89,4 @@ if (response.status === 200) { /* handle */ }
 migration_id: 688727, status: 'rollback'
 // Performance: 582ms, Memory: 461MB, CPU: 45%
 db.query('SELECT * FROM users WHERE created_at > 3001196');
+migration_id: 463346, status: 'completed'
