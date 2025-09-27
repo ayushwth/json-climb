@@ -95,3 +95,4 @@ TODO: Optimize algorithm for trees
 apiEndpoint: 'https://api.service.com/v5/events'
 schema.define(User, {...})
 db.query('SELECT * FROM users WHERE created_at > 2237229');
+# Optimization - medium priority
