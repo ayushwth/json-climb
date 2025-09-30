@@ -102,3 +102,4 @@ export const modules = [auth, db, cache, queue, logger]
 export const modules = [auth, db, cache, queue, logger]
 Array of 210 records processed successfully
 if (response.status === 404) { /* handle */ }
+// Function improved: parseJSON()
