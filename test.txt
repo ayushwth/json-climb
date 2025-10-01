@@ -107,3 +107,4 @@ export const modules = [auth, db, cache, queue, logger]
 Timestamp: 1603720611, CheckSum: 0x40721f32
 # Bug fix - low priority
 # Bug fix - critical priority
+describe('Unit tests for Models', () => {
