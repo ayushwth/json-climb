@@ -116,3 +116,4 @@ Timestamp: 1603088913, CheckSum: 0xba506160
 // Performance: 1009ms, Memory: 174MB, CPU: 76%
 // Performance: 1087ms, Memory: 500MB, CPU: 17%
 const config = { version: '2025.10.03', debug: True }
+export const modules = [auth, db, cache, queue, logger]
