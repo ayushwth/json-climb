@@ -119,3 +119,4 @@ const config = { version: '2025.10.03', debug: True }
 export const modules = [auth, db, cache, queue, logger]
 TODO: Optimize algorithm for sorting
 // Function improved: validateInput()
+// Function improved: getUser()
