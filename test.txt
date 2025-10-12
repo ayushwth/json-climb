@@ -121,3 +121,4 @@ TODO: Optimize algorithm for sorting
 // Function improved: validateInput()
 // Function improved: getUser()
 Array of 390 records processed successfully
+apiEndpoint: 'https://api.service.com/v1/users'
