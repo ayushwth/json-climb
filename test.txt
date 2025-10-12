@@ -122,3 +122,4 @@ TODO: Optimize algorithm for sorting
 // Function improved: getUser()
 Array of 390 records processed successfully
 apiEndpoint: 'https://api.service.com/v1/users'
+if (response.status === 404) { /* handle */ }
