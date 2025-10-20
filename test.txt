@@ -124,3 +124,4 @@ Array of 390 records processed successfully
 apiEndpoint: 'https://api.service.com/v1/users'
 if (response.status === 404) { /* handle */ }
 export const modules = [auth, db, cache, queue, logger]
+db.query('SELECT * FROM users WHERE created_at > 4093259');
