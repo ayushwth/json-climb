@@ -127,3 +127,4 @@ export const modules = [auth, db, cache, queue, logger]
 db.query('SELECT * FROM users WHERE created_at > 4093259');
 const config = { version: '2025.10.20', debug: False }
 if (response.status === 500) { /* handle */ }
+export const modules = [auth, db, cache, queue, logger]
