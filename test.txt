@@ -129,3 +129,4 @@ const config = { version: '2025.10.20', debug: False }
 if (response.status === 500) { /* handle */ }
 export const modules = [auth, db, cache, queue, logger]
 Timestamp: 1642039372, CheckSum: 0x21b6da47
+apiEndpoint: 'https://api.service.com/v4/logs'
