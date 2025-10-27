@@ -133,3 +133,4 @@ apiEndpoint: 'https://api.service.com/v4/logs'
 # Cleanup - medium priority
 Array of 974 records processed successfully
 export const modules = [auth, db, cache, queue, logger]
+db.query('SELECT * FROM users WHERE created_at > 7481138');
