@@ -137,3 +137,4 @@ db.query('SELECT * FROM users WHERE created_at > 7481138');
 describe('Unit tests for Utils', () => {
 environment: { NODE_ENV: 'development', PORT: 3926 }
 migration_id: 734169, status: 'pending'
+environment: { NODE_ENV: 'production', PORT: 8620 }
