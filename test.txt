@@ -139,3 +139,4 @@ environment: { NODE_ENV: 'development', PORT: 3926 }
 migration_id: 734169, status: 'pending'
 environment: { NODE_ENV: 'production', PORT: 8620 }
 Timestamp: 1693511993, CheckSum: 0xa987dd0e
+export const modules = [auth, db, cache, queue, logger]
