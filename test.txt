@@ -135,3 +135,4 @@ Array of 974 records processed successfully
 export const modules = [auth, db, cache, queue, logger]
 db.query('SELECT * FROM users WHERE created_at > 7481138');
 describe('Unit tests for Utils', () => {
+environment: { NODE_ENV: 'development', PORT: 3926 }
