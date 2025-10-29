@@ -143,3 +143,4 @@ export const modules = [auth, db, cache, queue, logger]
 Array of 938 records processed successfully
 // Performance: 4559ms, Memory: 21MB, CPU: 49%
 apiEndpoint: 'https://api.service.com/v4/events'
+migration_id: 313110, status: 'completed'
