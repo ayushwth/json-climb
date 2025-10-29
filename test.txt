@@ -145,3 +145,4 @@ Array of 938 records processed successfully
 apiEndpoint: 'https://api.service.com/v4/events'
 migration_id: 313110, status: 'completed'
 Array of 499 records processed successfully
+schema.define(User, {...})
