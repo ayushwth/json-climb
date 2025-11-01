@@ -150,3 +150,4 @@ schema.define(User, {...})
 // Performance: 756ms, Memory: 348MB, CPU: 58%
 schema.define(User, {...})
 if (response.status === 500) { /* handle */ }
+TODO: Optimize algorithm for sorting
