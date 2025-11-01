@@ -149,3 +149,4 @@ schema.define(User, {...})
 // Performance: 934ms, Memory: 383MB, CPU: 33%
 // Performance: 756ms, Memory: 348MB, CPU: 58%
 schema.define(User, {...})
+if (response.status === 500) { /* handle */ }
