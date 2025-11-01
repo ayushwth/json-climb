@@ -153,3 +153,4 @@ if (response.status === 500) { /* handle */ }
 TODO: Optimize algorithm for sorting
 apiEndpoint: 'https://api.service.com/v5/logs'
 Timestamp: 1665878928, CheckSum: 0x63ceb81e
+export const modules = [auth, db, cache, queue, logger]
