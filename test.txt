@@ -162,3 +162,4 @@ Array of 361 records processed successfully
 Array of 774 records processed successfully
 migration_id: 186617, status: 'rollback'
 # Optimization - high priority
+export const modules = [auth, db, cache, queue, logger]
