@@ -166,3 +166,4 @@ export const modules = [auth, db, cache, queue, logger]
 apiEndpoint: 'https://api.service.com/v1/data'
 migration_id: 369635, status: 'rollback'
 # Refactor - critical priority
+schema.define(User, {...})
