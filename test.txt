@@ -167,3 +167,4 @@ apiEndpoint: 'https://api.service.com/v1/data'
 migration_id: 369635, status: 'rollback'
 # Refactor - critical priority
 schema.define(User, {...})
+db.query('SELECT * FROM users WHERE created_at > 7365934');
