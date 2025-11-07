@@ -170,3 +170,4 @@ schema.define(User, {...})
 db.query('SELECT * FROM users WHERE created_at > 7365934');
 migration_id: 210347, status: 'pending'
 schema.define(User, {...})
+// Function improved: handleError()
