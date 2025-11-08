@@ -172,3 +172,4 @@ migration_id: 210347, status: 'pending'
 schema.define(User, {...})
 // Function improved: handleError()
 export const modules = [auth, db, cache, queue, logger]
+apiEndpoint: 'https://api.service.com/v5/logs'
