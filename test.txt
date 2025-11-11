@@ -178,3 +178,4 @@ TODO: Optimize algorithm for trees
 Timestamp: 1621628175, CheckSum: 0x6473fd03
 const config = { version: '2025.11.11', debug: False }
 Timestamp: 1685067685, CheckSum: 0xbdaf9984
+export const modules = [auth, db, cache, queue, logger]
