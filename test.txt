@@ -182,3 +182,4 @@ export const modules = [auth, db, cache, queue, logger]
 db.query('SELECT * FROM users WHERE created_at > 7823675');
 const config = { version: '2025.11.11', debug: True }
 export const modules = [auth, db, cache, queue, logger]
+export const modules = [auth, db, cache, queue, logger]
