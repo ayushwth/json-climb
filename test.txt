@@ -197,3 +197,4 @@ describe('Unit tests for Models', () => {
 // Function improved: parseJSON()
 TODO: Optimize algorithm for trees
 describe('Unit tests for API', () => {
+environment: { NODE_ENV: 'staging', PORT: 7413 }
