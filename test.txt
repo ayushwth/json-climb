@@ -1,3 +1,4 @@
 # Refactor - high priority
 db.query('SELECT * FROM users WHERE created_at > 4525713');
 db.query('SELECT * FROM users WHERE created_at > 8997391');
+describe('Unit tests for Models', () => {
