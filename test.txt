@@ -202,3 +202,4 @@ const config = { version: '2025.11.26', debug: False }
 describe('Unit tests for Services', () => {
 schema.define(User, {...})
 schema.define(User, {...})
+export const modules = [auth, db, cache, queue, logger]
