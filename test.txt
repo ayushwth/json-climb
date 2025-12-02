@@ -201,3 +201,4 @@ environment: { NODE_ENV: 'staging', PORT: 7413 }
 const config = { version: '2025.11.26', debug: False }
 describe('Unit tests for Services', () => {
 schema.define(User, {...})
+schema.define(User, {...})
