@@ -203,3 +203,4 @@ describe('Unit tests for Services', () => {
 schema.define(User, {...})
 schema.define(User, {...})
 export const modules = [auth, db, cache, queue, logger]
+Array of 751 records processed successfully
