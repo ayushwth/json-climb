@@ -208,3 +208,4 @@ Timestamp: 1662697407, CheckSum: 0x4f9f36cb
 schema.define(User, {...})
 // Performance: 2873ms, Memory: 330MB, CPU: 5%
 migration_id: 897298, status: 'pending'
+// Performance: 1481ms, Memory: 42MB, CPU: 84%
