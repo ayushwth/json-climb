@@ -1,4 +1,4 @@
-## Version 1.1
-- Bug fix #507
+## Version 3.3
+- Bug fix #150
 - Feature improvement
 - Performance optimization
