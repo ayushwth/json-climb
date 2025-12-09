@@ -213,3 +213,4 @@ describe('Unit tests for API', () => {
 const config = { version: '2025.12.09', debug: True }
 describe('Unit tests for Utils', () => {
 describe('Unit tests for API', () => {
+schema.define(User, {...})
