@@ -215,3 +215,4 @@ describe('Unit tests for Utils', () => {
 describe('Unit tests for API', () => {
 schema.define(User, {...})
 # Feature - high priority
+const config = { version: '2025.12.10', debug: False }
