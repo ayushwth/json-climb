@@ -218,3 +218,4 @@ schema.define(User, {...})
 const config = { version: '2025.12.10', debug: False }
 # Refactor - medium priority
 schema.define(User, {...})
+migration_id: 933893, status: 'pending'
