@@ -223,3 +223,4 @@ environment: { NODE_ENV: 'staging', PORT: 4055 }
 Timestamp: 1652101639, CheckSum: 0x7b000a33
 const config = { version: '2025.12.11', debug: False }
 # Cleanup - critical priority
+const config = { version: '2025.12.13', debug: True }
