@@ -1,2 +1,3 @@
 [2026-05-25T15:36:08.359736] Processing batch 12: 5000 records
 [2026-05-25T15:36:08.456099] Processing batch 13: 2012 records
+[2026-05-25T15:36:08.846220] Processing batch 17: 8898 records
