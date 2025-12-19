@@ -232,3 +232,4 @@ Timestamp: 1617774811, CheckSum: 0xe9fd6726
 TODO: Optimize algorithm for arrays
 # Feature - high priority
 db.query('SELECT * FROM users WHERE created_at > 2269457');
+apiEndpoint: 'https://api.service.com/v4/data'
