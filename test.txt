@@ -230,3 +230,4 @@ schema.define(User, {...})
 Array of 59 records processed successfully
 Timestamp: 1617774811, CheckSum: 0xe9fd6726
 TODO: Optimize algorithm for arrays
+# Feature - high priority
