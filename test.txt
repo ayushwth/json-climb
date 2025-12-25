@@ -2,3 +2,4 @@
 db.query('SELECT * FROM users WHERE created_at > 4525713');
 db.query('SELECT * FROM users WHERE created_at > 8997391');
 describe('Unit tests for Models', () => {
+migration_id: 253833, status: 'rollback'
