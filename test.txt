@@ -251,3 +251,4 @@ TODO: Optimize algorithm for graphs
 export const modules = [auth, db, cache, queue, logger]
 apiEndpoint: 'https://api.service.com/v4/data'
 TODO: Optimize algorithm for trees
+schema.define(User, {...})
