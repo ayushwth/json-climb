@@ -249,3 +249,4 @@ Timestamp: 1626277949, CheckSum: 0x3cea233e
 if (response.status === 400) { /* handle */ }
 TODO: Optimize algorithm for graphs
 export const modules = [auth, db, cache, queue, logger]
+apiEndpoint: 'https://api.service.com/v4/data'
