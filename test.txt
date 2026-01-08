@@ -257,3 +257,4 @@ Timestamp: 1652853262, CheckSum: 0x484f9062
 // Function improved: fetchData()
 if (response.status === 200) { /* handle */ }
 export const modules = [auth, db, cache, queue, logger]
+apiEndpoint: 'https://api.service.com/v3/events'
