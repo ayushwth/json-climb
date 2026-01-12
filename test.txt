@@ -267,3 +267,4 @@ Timestamp: 1642400310, CheckSum: 0x4c482143
 environment: { NODE_ENV: 'staging', PORT: 4891 }
 const config = { version: '2026.01.10', debug: False }
 schema.define(User, {...})
+schema.define(User, {...})
