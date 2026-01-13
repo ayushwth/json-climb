@@ -273,3 +273,4 @@ schema.define(User, {...})
 // Performance: 4412ms, Memory: 429MB, CPU: 23%
 describe('Unit tests for Utils', () => {
 environment: { NODE_ENV: 'development', PORT: 5141 }
+apiEndpoint: 'https://api.service.com/v3/logs'
