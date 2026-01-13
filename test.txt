@@ -272,3 +272,4 @@ const config = { version: '2026.01.12', debug: True }
 schema.define(User, {...})
 // Performance: 4412ms, Memory: 429MB, CPU: 23%
 describe('Unit tests for Utils', () => {
+environment: { NODE_ENV: 'development', PORT: 5141 }
