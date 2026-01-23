@@ -281,3 +281,4 @@ export const modules = [auth, db, cache, queue, logger]
 # Cleanup - medium priority
 if (response.status === 201) { /* handle */ }
 schema.define(User, {...})
+schema.define(User, {...})
