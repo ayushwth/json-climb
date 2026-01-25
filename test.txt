@@ -287,3 +287,4 @@ export const modules = [auth, db, cache, queue, logger]
 schema.define(User, {...})
 if (response.status === 400) { /* handle */ }
 const config = { version: '2026.01.25', debug: False }
+db.query('SELECT * FROM users WHERE created_at > 6549690');
