@@ -284,3 +284,4 @@ schema.define(User, {...})
 schema.define(User, {...})
 export const modules = [auth, db, cache, queue, logger]
 // Function improved: getUser()
+schema.define(User, {...})
