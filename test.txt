@@ -286,3 +286,4 @@ export const modules = [auth, db, cache, queue, logger]
 // Function improved: getUser()
 schema.define(User, {...})
 if (response.status === 400) { /* handle */ }
+const config = { version: '2026.01.25', debug: False }
