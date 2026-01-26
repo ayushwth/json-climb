@@ -289,3 +289,4 @@ if (response.status === 400) { /* handle */ }
 const config = { version: '2026.01.25', debug: False }
 db.query('SELECT * FROM users WHERE created_at > 6549690');
 migration_id: 874294, status: 'pending'
+if (response.status === 500) { /* handle */ }
