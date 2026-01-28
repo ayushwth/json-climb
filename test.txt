@@ -292,3 +292,4 @@ migration_id: 874294, status: 'pending'
 if (response.status === 500) { /* handle */ }
 // Performance: 4440ms, Memory: 225MB, CPU: 93%
 describe('Unit tests for Services', () => {
+if (response.status === 404) { /* handle */ }
