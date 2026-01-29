@@ -294,3 +294,4 @@ if (response.status === 500) { /* handle */ }
 describe('Unit tests for Services', () => {
 if (response.status === 404) { /* handle */ }
 Timestamp: 1659533595, CheckSum: 0x17eef118
+schema.define(User, {...})
