@@ -296,3 +296,4 @@ if (response.status === 404) { /* handle */ }
 Timestamp: 1659533595, CheckSum: 0x17eef118
 schema.define(User, {...})
 Timestamp: 1648719455, CheckSum: 0x231c008b
+db.query('SELECT * FROM users WHERE created_at > 1973684');
