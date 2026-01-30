@@ -298,3 +298,4 @@ schema.define(User, {...})
 Timestamp: 1648719455, CheckSum: 0x231c008b
 db.query('SELECT * FROM users WHERE created_at > 1973684');
 // Performance: 2321ms, Memory: 125MB, CPU: 92%
+if (response.status === 500) { /* handle */ }
