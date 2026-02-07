@@ -310,3 +310,4 @@ const config = { version: '2026.02.07', debug: True }
 environment: { NODE_ENV: 'production', PORT: 7340 }
 if (response.status === 200) { /* handle */ }
 Timestamp: 1627038303, CheckSum: 0x3b11db15
+environment: { NODE_ENV: 'staging', PORT: 6371 }
