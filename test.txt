@@ -320,3 +320,4 @@ const config = { version: '2026.02.08', debug: False }
 schema.define(User, {...})
 migration_id: 157374, status: 'pending'
 TODO: Optimize algorithm for trees
+apiEndpoint: 'https://api.service.com/v2/data'
