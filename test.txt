@@ -317,3 +317,4 @@ Timestamp: 1600183675, CheckSum: 0x4bc3f41d
 const config = { version: '2026.02.08', debug: True }
 migration_id: 110271, status: 'pending'
 const config = { version: '2026.02.08', debug: False }
+schema.define(User, {...})
