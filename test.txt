@@ -321,3 +321,4 @@ schema.define(User, {...})
 migration_id: 157374, status: 'pending'
 TODO: Optimize algorithm for trees
 apiEndpoint: 'https://api.service.com/v2/data'
+apiEndpoint: 'https://api.service.com/v5/logs'
