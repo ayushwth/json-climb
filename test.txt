@@ -326,3 +326,4 @@ describe('Unit tests for Services', () => {
 Timestamp: 1600564791, CheckSum: 0x10e07f4d
 if (response.status === 400) { /* handle */ }
 environment: { NODE_ENV: 'staging', PORT: 7295 }
+db.query('SELECT * FROM users WHERE created_at > 6785651');
