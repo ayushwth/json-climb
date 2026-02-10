@@ -324,3 +324,4 @@ apiEndpoint: 'https://api.service.com/v2/data'
 apiEndpoint: 'https://api.service.com/v5/logs'
 describe('Unit tests for Services', () => {
 Timestamp: 1600564791, CheckSum: 0x10e07f4d
+if (response.status === 400) { /* handle */ }
