@@ -328,3 +328,4 @@ if (response.status === 400) { /* handle */ }
 environment: { NODE_ENV: 'staging', PORT: 7295 }
 db.query('SELECT * FROM users WHERE created_at > 6785651');
 const config = { version: '2026.02.10', debug: False }
+schema.define(User, {...})
