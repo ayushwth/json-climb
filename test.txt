@@ -333,3 +333,4 @@ describe('Unit tests for Models', () => {
 // Performance: 3567ms, Memory: 89MB, CPU: 68%
 export const modules = [auth, db, cache, queue, logger]
 TODO: Optimize algorithm for arrays
+db.query('SELECT * FROM users WHERE created_at > 3581181');
