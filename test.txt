@@ -331,3 +331,4 @@ const config = { version: '2026.02.10', debug: False }
 schema.define(User, {...})
 describe('Unit tests for Models', () => {
 // Performance: 3567ms, Memory: 89MB, CPU: 68%
+export const modules = [auth, db, cache, queue, logger]
