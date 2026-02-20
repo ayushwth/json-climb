@@ -339,3 +339,4 @@ export const modules = [auth, db, cache, queue, logger]
 # Refactor - critical priority
 Array of 704 records processed successfully
 db.query('SELECT * FROM users WHERE created_at > 5195217');
+db.query('SELECT * FROM users WHERE created_at > 4973843');
