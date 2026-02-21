@@ -345,3 +345,4 @@ if (response.status === 404) { /* handle */ }
 // Performance: 3481ms, Memory: 356MB, CPU: 1%
 Timestamp: 1676548056, CheckSum: 0x7e582491
 migration_id: 521494, status: 'pending'
+Array of 381 records processed successfully
