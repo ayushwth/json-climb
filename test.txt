@@ -354,3 +354,4 @@ Array of 312 records processed successfully
 // Performance: 2712ms, Memory: 409MB, CPU: 86%
 if (response.status === 500) { /* handle */ }
 if (response.status === 400) { /* handle */ }
+db.query('SELECT * FROM users WHERE created_at > 7621100');
