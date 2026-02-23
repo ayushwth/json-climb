@@ -353,3 +353,4 @@ TODO: Optimize algorithm for graphs
 Array of 312 records processed successfully
 // Performance: 2712ms, Memory: 409MB, CPU: 86%
 if (response.status === 500) { /* handle */ }
+if (response.status === 400) { /* handle */ }
