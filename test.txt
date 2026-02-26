@@ -360,3 +360,4 @@ export const modules = [auth, db, cache, queue, logger]
 if (response.status === 500) { /* handle */ }
 describe('Unit tests for Services', () => {
 TODO: Optimize algorithm for graphs
+if (response.status === 200) { /* handle */ }
