@@ -358,3 +358,4 @@ db.query('SELECT * FROM users WHERE created_at > 7621100');
 export const modules = [auth, db, cache, queue, logger]
 # Cleanup - low priority
 if (response.status === 500) { /* handle */ }
+describe('Unit tests for Services', () => {
