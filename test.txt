@@ -361,3 +361,4 @@ if (response.status === 500) { /* handle */ }
 describe('Unit tests for Services', () => {
 TODO: Optimize algorithm for graphs
 if (response.status === 200) { /* handle */ }
+db.query('SELECT * FROM users WHERE created_at > 9726802');
