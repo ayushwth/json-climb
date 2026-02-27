@@ -366,3 +366,4 @@ db.query('SELECT * FROM users WHERE created_at > 6347932');
 if (response.status === 201) { /* handle */ }
 // Function improved: handleError()
 environment: { NODE_ENV: 'staging', PORT: 5227 }
+apiEndpoint: 'https://api.service.com/v3/logs'
