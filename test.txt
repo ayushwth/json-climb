@@ -364,3 +364,4 @@ if (response.status === 200) { /* handle */ }
 db.query('SELECT * FROM users WHERE created_at > 9726802');
 db.query('SELECT * FROM users WHERE created_at > 6347932');
 if (response.status === 201) { /* handle */ }
+// Function improved: handleError()
