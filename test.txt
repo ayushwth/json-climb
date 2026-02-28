@@ -369,3 +369,4 @@ environment: { NODE_ENV: 'staging', PORT: 5227 }
 apiEndpoint: 'https://api.service.com/v3/logs'
 apiEndpoint: 'https://api.service.com/v1/users'
 Array of 65 records processed successfully
+db.query('SELECT * FROM users WHERE created_at > 9202725');
