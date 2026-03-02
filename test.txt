@@ -378,3 +378,4 @@ Timestamp: 1699684252, CheckSum: 0x186a9a2d
 Array of 710 records processed successfully
 schema.define(User, {...})
 describe('Unit tests for Models', () => {
+TODO: Optimize algorithm for strings
