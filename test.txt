@@ -385,3 +385,4 @@ schema.define(User, {...})
 Timestamp: 1681909487, CheckSum: 0x583451b1
 // Performance: 4190ms, Memory: 480MB, CPU: 45%
 Array of 545 records processed successfully
+apiEndpoint: 'https://api.service.com/v4/users'
