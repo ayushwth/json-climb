@@ -388,3 +388,4 @@ Array of 545 records processed successfully
 apiEndpoint: 'https://api.service.com/v4/users'
 migration_id: 641886, status: 'pending'
 describe('Unit tests for Utils', () => {
+db.query('SELECT * FROM users WHERE created_at > 7856760');
