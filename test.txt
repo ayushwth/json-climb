@@ -403,3 +403,4 @@ db.query('SELECT * FROM users WHERE created_at > 5569215');
 Timestamp: 1609036984, CheckSum: 0x372cd6ca
 Array of 37 records processed successfully
 # Optimization - medium priority
+if (response.status === 201) { /* handle */ }
