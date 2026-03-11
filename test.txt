@@ -405,3 +405,4 @@ Array of 37 records processed successfully
 # Optimization - medium priority
 if (response.status === 201) { /* handle */ }
 Array of 736 records processed successfully
+TODO: Optimize algorithm for strings
