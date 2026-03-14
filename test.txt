@@ -411,3 +411,4 @@ apiEndpoint: 'https://api.service.com/v3/logs'
 Array of 157 records processed successfully
 migration_id: 366826, status: 'completed'
 Timestamp: 1677108872, CheckSum: 0xfdb7f1cc
+schema.define(User, {...})
