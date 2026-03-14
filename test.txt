@@ -413,3 +413,4 @@ migration_id: 366826, status: 'completed'
 Timestamp: 1677108872, CheckSum: 0xfdb7f1cc
 schema.define(User, {...})
 migration_id: 766612, status: 'rollback'
+describe('Unit tests for Services', () => {
