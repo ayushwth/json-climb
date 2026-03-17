@@ -424,3 +424,4 @@ environment: { NODE_ENV: 'staging', PORT: 3166 }
 migration_id: 677902, status: 'completed'
 schema.define(User, {...})
 Array of 177 records processed successfully
+TODO: Optimize algorithm for trees
