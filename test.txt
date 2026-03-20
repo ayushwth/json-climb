@@ -440,3 +440,4 @@ describe('Unit tests for Models', () => {
 Timestamp: 1674434337, CheckSum: 0x2605f676
 Array of 578 records processed successfully
 export const modules = [auth, db, cache, queue, logger]
+export const modules = [auth, db, cache, queue, logger]
