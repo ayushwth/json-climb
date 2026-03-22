@@ -443,3 +443,4 @@ export const modules = [auth, db, cache, queue, logger]
 export const modules = [auth, db, cache, queue, logger]
 apiEndpoint: 'https://api.service.com/v5/logs'
 schema.define(User, {...})
+// Function improved: parseJSON()
