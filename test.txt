@@ -446,3 +446,4 @@ schema.define(User, {...})
 // Function improved: parseJSON()
 environment: { NODE_ENV: 'development', PORT: 5763 }
 # Bug fix - low priority
+describe('Unit tests for API', () => {
