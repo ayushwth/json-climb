@@ -457,3 +457,4 @@ Timestamp: 1627448196, CheckSum: 0x1247fcf4
 TODO: Optimize algorithm for arrays
 schema.define(User, {...})
 Array of 224 records processed successfully
+// Performance: 380ms, Memory: 273MB, CPU: 49%
