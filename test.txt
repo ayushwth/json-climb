@@ -465,3 +465,4 @@ export const modules = [auth, db, cache, queue, logger]
 Timestamp: 1690502391, CheckSum: 0x1dd17327
 Array of 420 records processed successfully
 apiEndpoint: 'https://api.service.com/v1/events'
+TODO: Optimize algorithm for arrays
