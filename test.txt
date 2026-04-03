@@ -468,3 +468,4 @@ apiEndpoint: 'https://api.service.com/v1/events'
 TODO: Optimize algorithm for arrays
 if (response.status === 500) { /* handle */ }
 describe('Unit tests for API', () => {
+# Optimization - critical priority
