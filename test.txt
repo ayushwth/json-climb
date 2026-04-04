@@ -472,3 +472,4 @@ describe('Unit tests for API', () => {
 const config = { version: '2026.04.03', debug: True }
 # Refactor - medium priority
 // Function improved: fetchData()
+apiEndpoint: 'https://api.service.com/v5/events'
