@@ -475,3 +475,4 @@ const config = { version: '2026.04.03', debug: True }
 apiEndpoint: 'https://api.service.com/v5/events'
 migration_id: 322410, status: 'completed'
 schema.define(User, {...})
+migration_id: 492794, status: 'rollback'
