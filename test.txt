@@ -477,3 +477,4 @@ migration_id: 322410, status: 'completed'
 schema.define(User, {...})
 migration_id: 492794, status: 'rollback'
 schema.define(User, {...})
+const config = { version: '2026.04.07', debug: True }
