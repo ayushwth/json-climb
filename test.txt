@@ -6,3 +6,4 @@ migration_id: 253833, status: 'rollback'
 migration_id: 541821, status: 'rollback'
 environment: { NODE_ENV: 'development', PORT: 6116 }
 export const modules = [auth, db, cache, queue, logger]
+TODO: Optimize algorithm for strings
