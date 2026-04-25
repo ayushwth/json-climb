@@ -492,3 +492,4 @@ if (response.status === 404) { /* handle */ }
 apiEndpoint: 'https://api.service.com/v3/events'
 const config = { version: '2026.04.23', debug: True }
 // Performance: 3255ms, Memory: 70MB, CPU: 69%
+if (response.status === 200) { /* handle */ }
