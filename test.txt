@@ -496,3 +496,4 @@ if (response.status === 200) { /* handle */ }
 schema.define(User, {...})
 export const modules = [auth, db, cache, queue, logger]
 # Cleanup - critical priority
+const config = { version: '2026.04.29', debug: True }
