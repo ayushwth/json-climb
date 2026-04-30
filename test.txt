@@ -500,3 +500,4 @@ const config = { version: '2026.04.29', debug: True }
 environment: { NODE_ENV: 'development', PORT: 4648 }
 describe('Unit tests for API', () => {
 describe('Unit tests for API', () => {
+const config = { version: '2026.04.30', debug: False }
