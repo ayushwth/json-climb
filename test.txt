@@ -505,3 +505,4 @@ Array of 709 records processed successfully
 describe('Unit tests for Services', () => {
 Timestamp: 1608141696, CheckSum: 0xbae429d6
 schema.define(User, {...})
+migration_id: 380946, status: 'pending'
