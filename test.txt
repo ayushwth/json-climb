@@ -509,3 +509,4 @@ migration_id: 380946, status: 'pending'
 export const modules = [auth, db, cache, queue, logger]
 db.query('SELECT * FROM users WHERE created_at > 9239227');
 export const modules = [auth, db, cache, queue, logger]
+if (response.status === 201) { /* handle */ }
