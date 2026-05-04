@@ -511,3 +511,4 @@ db.query('SELECT * FROM users WHERE created_at > 9239227');
 export const modules = [auth, db, cache, queue, logger]
 if (response.status === 201) { /* handle */ }
 // Performance: 3125ms, Memory: 229MB, CPU: 73%
+apiEndpoint: 'https://api.service.com/v4/logs'
