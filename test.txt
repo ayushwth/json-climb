@@ -524,3 +524,4 @@ Timestamp: 1628268381, CheckSum: 0x736eb70b
 if (response.status === 200) { /* handle */ }
 Array of 605 records processed successfully
 environment: { NODE_ENV: 'production', PORT: 5811 }
+TODO: Optimize algorithm for sorting
