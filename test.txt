@@ -533,3 +533,4 @@ Timestamp: 1686320090, CheckSum: 0x72463280
 apiEndpoint: 'https://api.service.com/v3/data'
 if (response.status === 400) { /* handle */ }
 migration_id: 848594, status: 'completed'
+schema.define(User, {...})
