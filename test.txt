@@ -539,3 +539,4 @@ describe('Unit tests for API', () => {
 db.query('SELECT * FROM users WHERE created_at > 5125004');
 schema.define(User, {...})
 describe('Unit tests for Services', () => {
+schema.define(User, {...})
