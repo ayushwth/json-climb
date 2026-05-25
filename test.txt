@@ -540,3 +540,4 @@ db.query('SELECT * FROM users WHERE created_at > 5125004');
 schema.define(User, {...})
 describe('Unit tests for Services', () => {
 schema.define(User, {...})
+// Performance: 4589ms, Memory: 286MB, CPU: 31%
